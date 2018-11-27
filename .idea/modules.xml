@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Library.iml" filepath="$PROJECT_DIR$/.idea/modules/Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.Library.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.Library.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.Library.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.Library.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.Library.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.Library.jsMain.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.Library.jsMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.Library.jsTest.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.Library.jsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.Library.jvmMain.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.Library.jvmMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.Library.jvmTest.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.Library.jvmTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.Library.macosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.Library.macosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.Library.macosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.Library.macosTest.iml" />
+    </modules>
+  </component>
+</project>
